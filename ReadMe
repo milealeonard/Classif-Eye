@@ -1,5 +1,18 @@
 Semi-automated application to rapidly assess and classify retinal images for research purposes. 
+Classification output in CSV file.
+This application is particularly useful for machine leaning and supervised deep learning studies where:
+     - a reference standard is required for training the system
+     - the performance of multiple graders is compared
 Download the repository to use the application.
 For questions or comments, please email classifeyeapplication@gmail.com.
 Designed by: Raymond P. Najjar and Leonard Milea
 Coded by: Leonard Milea.
+
+How to Use:
+1. Select your current excel file or create a new one to write to. 
+2. Select the image dataset you want to use (should be an image directory, accepts jpg, tif, png, ppm).
+3. Select which user will be classifying the dataset.
+4. Define the possible categories images can take.
+5. Classify the images (Note that this can be done with the buttons on the left, or with an auto-fill function using text).
+
+
