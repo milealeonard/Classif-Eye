@@ -14,3 +14,5 @@ How to Use:
 3. Select which user will be classifying the dataset.
 4. Define the possible categories images can take.
 5. Classify the images (Note that this can be done with the buttons on the left, or with an auto-fill function using text).
+
+For Windows Version, you must first unzip the file, and then open the exe file called "Windows_Version.exe" in that folder in order to open the application.
