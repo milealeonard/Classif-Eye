@@ -3,7 +3,7 @@ Classification output in CSV file.
 This application is particularly useful for machine leaning and supervised deep learning studies where:
      - a reference standard is required for training the system
      - the performance of multiple graders is compared
-Download the repository to use the application.
+Download the repository to use the application (download the Mac file if you are on a Mac OS, and the Windows file if you are on Windows).
 For questions or comments, please email classifeyeapplication@gmail.com.
 Designed by: Raymond P. Najjar and Leonard Milea
 Coded by: Leonard Milea.
